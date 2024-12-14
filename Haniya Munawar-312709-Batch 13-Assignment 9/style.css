@@ -1,0 +1,25 @@
+table{
+    padding: 5px;
+    margin: auto;
+    width: 1000px;
+    height: 100px;
+    background-color: oldlace;
+    margin-top: 100px;
+    border-radius: 10px;
+    border: black dotted;
+}
+td{
+    padding: 7px;
+}
+tr{
+    align-items: center;
+}
+th{
+    border: black groove;
+}
+tr:hover{
+    background-color: yellow;
+}
+td:hover{
+    background-color: wheat;
+}
